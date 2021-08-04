@@ -1,4 +1,4 @@
-# Vue Router, Vuex, vue-resource, animation, vue devtools.
+# Vue 2: Vue Router, Vuex, vue-resource, animation, vue devtools.
 
 # vue-cli
 
