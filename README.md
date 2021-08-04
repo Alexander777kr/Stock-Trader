@@ -1,3 +1,5 @@
+# Vue Router, Vuex, vue-resource, animation, vue devtools.
+
 # vue-cli
 
 > A Vue.js project
